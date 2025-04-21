@@ -81,6 +81,7 @@ while True:
         continue
 
 
+
 while True:
     a = int(input("şifreli metninizi çözmemizi istiyorsanız 1, \n şifreli metine çevirmemizi istiyorsanız 0 yazın:"))
     if a==1:
